@@ -118,7 +118,6 @@ textdistance==4.2.0
 three-merge==0.1.1
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
 ujson==4.0.1
